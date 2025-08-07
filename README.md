@@ -104,5 +104,3 @@ pip install -r requirements.txt
 ## 📝 License
 
 This project is intended for **research and educational purposes** only. Please check licenses of Florence2 and SAM2 for commercial use.
-
-```
