@@ -14,10 +14,14 @@ Check out the live demo here:
 
 ## 🔗 Google Colab (GPU Required)
 
-You can run this notebook on **Google Colab with GPU support**:  
-👉 [Colab Deployment](https://github.com/DanialSoleimany/florence-sam-deploy/blob/main/florence_sam_deploy.ipynb)  
+You can run this notebook on **Google Colab with GPU support**:
+👉 [Colab Deployment](https://github.com/DanialSoleimany/florence-sam-deploy/blob/main/florence_sam_deploy.ipynb)
 
 > ⚠️ **GPU is required** for this project to run properly. It will not work on CPU-only environments.
+
+You can upload the notebook to **Google Colab** or **any other GPU-enabled environment** (e.g., Kaggle, Paperspace, or local Jupyter with GPU).
+Just make sure to **adjust file paths** if needed (e.g., for model weights or image files).
+✅ With **one run** in Colab (after connecting to GPU), the **app demo will launch and run automatically**.
 
 ---
 
