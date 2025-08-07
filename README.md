@@ -95,9 +95,9 @@ pip install -r requirements.txt
 
 ## 📚 References
 
-* [Florence2 by Microsoft](https://www.microsoft.com/en-us/research/project/florence/)
-* [SAM2: Segment Anything v2](https://segment-anything.com/)
-* [Florence + SAM Hugging Face Demo](https://huggingface.co/spaces/SkalskiP/florence-sam)
+* Florence2 by Microsoft
+* SAM2: Segment Anything v2
+* Florence + SAM Hugging Face Demo(https://huggingface.co/spaces/SkalskiP/florence-sam)
 
 ---
 
@@ -105,6 +105,4 @@ pip install -r requirements.txt
 
 This project is intended for **research and educational purposes** only. Please check licenses of Florence2 and SAM2 for commercial use.
 
-
-Would you like me to generate this as a downloadable `README.md` file for you too?
 ```
